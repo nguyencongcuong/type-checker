@@ -1,6 +1,6 @@
 export const database = [
   {
-    "text": "Thái độ tốt nhất chính là: “Lưng của tôi không phải là hộp thư thoại và vui lòng nói bất cứ điều gì bạn muốn trước mặt tôi”.",
+    "text": `Thái độ tốt nhất chính là: "Lưng của tôi không phải là hộp thư thoại và vui lòng nói bất cứ điều gì bạn muốn trước mặt tôi".`,
     "author": null
   },
   {
@@ -16,7 +16,7 @@ export const database = [
     "author": "Vãn Tình"
   },
   {
-    "text": "Hãy là chính bạn. Làm “người khác” đã có người khác làm rồi.",
+    "text": 'Hãy là chính bạn. Làm "người khác" đã có người khác làm rồi.',
     "author": null
   },
   {
@@ -88,7 +88,7 @@ export const database = [
     "author": null
   },
   {
-    "text": "Hãy luôn nhớ câu nói “không có gì là tuyệt đối”. Đừng buồn khi bạn thất bại, sai lầm nhất của con người là không mắc sai lầm.",
+    "text": `Hãy luôn nhớ câu nói "không có gì là tuyệt đối". Đừng buồn khi bạn thất bại, sai lầm nhất của con người là không mắc sai lầm.`,
     "author": null
   },
   {
@@ -124,7 +124,7 @@ export const database = [
     "author": null
   },
   {
-    "text": "Cuộc sống cũng tương tự như một trò đấm bốc. Thất bại không được tuyên bố khi bạn ngã xuống mà là khi bạn từ chối “đứng dậy”.",
+    "text": `Cuộc sống cũng tương tự như một trò đấm bốc. Thất bại không được tuyên bố khi bạn ngã xuống mà là khi bạn từ chối "đứng dậy".`,
     "author": null
   },
   {
@@ -132,7 +132,7 @@ export const database = [
     "author": null
   },
   {
-    "text": "Cuộc sống rất tuyệt vời nếu bạn biết sống và dám sống. Hãy thử “sống” như cách mình muốn, sống từ hôm nay, để sau này khi vốn thời gian của bạn cạn kiệt, bạn sẽ không phải hối tiếc vì chưa kịp làm quá nhiều điều, ngay cả những điều rất nhỏ nhoi và những điều rất lớn.",
+    "text": `Cuộc sống rất tuyệt vời nếu bạn biết sống và dám sống. Hãy thử "sống" như cách mình muốn, sống từ hôm nay, để sau này khi vốn thời gian của bạn cạn kiệt, bạn sẽ không phải hối tiếc vì chưa kịp làm quá nhiều điều, ngay cả những điều rất nhỏ nhoi và những điều rất lớn.`,
     "author": null
   },
   {
@@ -152,7 +152,7 @@ export const database = [
     "author": null
   },
   {
-    "text": "Lúc bé cứ nghĩ chỉ có thuốc là đắng, lớn lên rồi mới biết còn có nhiều thứ “đắng” hơn thuốc.",
+    "text": `Lúc bé cứ nghĩ chỉ có thuốc là đắng, lớn lên rồi mới biết còn có nhiều thứ "đắng" hơn thuốc.`,
     "author": null
   },
   {
@@ -196,7 +196,7 @@ export const database = [
     "author": null
   },
   {
-    "text": "Thái độ tốt nhất chính là: “Lưng của tôi không phải là một hộp thư thoại. Vui lòng nói bất cứ điều gì bạn muốn trước mặt tôi.”",
+    "text": `Thái độ tốt nhất chính là: "Lưng của tôi không phải là một hộp thư thoại. Vui lòng nói bất cứ điều gì bạn muốn trước mặt tôi."`,
     "author": null
   },
   {
@@ -248,7 +248,7 @@ export const database = [
     "author": null
   },
   {
-    "text": "“Tôi đã khóc vì không có giày để đi cho đến khi tôi nhìn thấy một người không có chân để đi giày.”",
+    "text": `Tôi đã khóc vì không có giày để đi cho đến khi tôi nhìn thấy một người không có chân để đi giày.`,
     "author": null
   },
   {
@@ -272,7 +272,7 @@ export const database = [
     "author": null
   },
   {
-    "text": "Hãy yêu bản thân bạn vì chỉ có “nó” là không bao giờ phản bội bạn.",
+    "text": `Hãy yêu bản thân bạn vì chỉ có "nó" là không bao giờ phản bội bạn.`,
     "author": null
   },
   {
