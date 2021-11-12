@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,iBAGE,qBAAsB,CACtB,+BAAiC,CACjC,cACF,CAEA,wBACE,OACF","file":"main.872c36e9.chunk.css","sourcesContent":["*,\n*::after,\n*::before {\n  box-sizing: border-box;\n  font-family: \"Roboto\", sans-serif;\n  font-size: 18px;\n}\n\nbody::-webkit-scrollbar {\n  width: 0;\n}"]}
