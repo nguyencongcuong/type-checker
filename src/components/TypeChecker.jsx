@@ -41,7 +41,7 @@ TypeChecker.TextArea = function TypeCheckerTextArea({ text, ...props }) {
     text === typedText
     ? setCheck(true)
     : setCheck(false)
-  }, [typedText])
+  }, [typedText, text])
 
   return (
     <>
