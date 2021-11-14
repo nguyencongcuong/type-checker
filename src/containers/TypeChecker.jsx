@@ -20,7 +20,7 @@ export default function TypeCheckerContainer() {
   }, [text, typedText])
 
   return (
-    <Container maxWidth="sm">
+    <Container maxWidth="sm" sx={{p:4}}>
       <Stack
         direction="column"
         spacing={2}
@@ -46,9 +46,15 @@ export default function TypeCheckerContainer() {
               : check && <Alert severity="success">Chúc mừng! Bạn đã gõ đúng rồi!</Alert>
 
         }
-        <Button variant="outlined" startIcon={<RefreshRounded />} onClick={handleClick}>Thử 1 câu khác</Button>
+        <Button
+          variant="outlined"
+          startIcon={<RefreshRounded />}
+          onClick={handleClick}
+        >
+          Thử 1 câu khác
+        </Button>
 
-        <Box sx={{ fontSize: "1.2rem", bgcolor: "#ffcc58", color: "white", borderRadius: "5px", p: 2}}>
+        <Box sx={{ fontSize: "1.2rem", bgcolor: "#ffcc58", color: "white", borderRadius: "5px", p: 2 }}>
           <List>
             {
               [
