@@ -5,7 +5,6 @@ import TypeCheckerContainer from './containers/TypeChecker';
 function App() {
   return (
     <>
-      <HeaderContainer />
       <TypeCheckerContainer />
     </>
   );
